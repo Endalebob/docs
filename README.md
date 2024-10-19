@@ -128,7 +128,7 @@ As shown in the "Success" section above.
 **Request:**
 
 ```
-GET https://o9glv549pc.execute-api.eu-north-1.amazonaws.com/dev?start_date=2024-10-01&end_date=2024-10-31&class_type=Class%20A
+GET https://o9glv549pc.execute-api.eu-north-1.amazonaws.com/dev?start_date=2024-10-01&end_date=2024-10-31&class_type=A
 ```
 
 **Response:**
