@@ -169,9 +169,7 @@ GET https://o9glv549pc.execute-api.eu-north-1.amazonaws.com/dev?matchback_rule=f
     "total_conversions": 2,
     "overview_by_class": [
         {
-            "total_emails": 11858,
             "total_conversions": 2,
-            "conversion_rate": 0.00016866250632484398,
             "sum_converted_amount": 242.69,
             "class": "E",
             "matched_rules": [
